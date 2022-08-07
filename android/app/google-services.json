@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "344496574835",
+    "project_id": "fastmapsdatabase",
+    "storage_bucket": "fastmapsdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344496574835:android:215e694fe785124270b506",
+        "android_client_info": {
+          "package_name": "com.teamnotfound.fastmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344496574835-avs30vo5u281ns0d2ga4c82559cj8o32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamnotfound.fastmaps",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "344496574835-hh6cg1e3oivtg02s78esjuj6uc28unt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fqRZDbh85ecj9LPu7kaQPb5-JuMWg7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344496574835-hh6cg1e3oivtg02s78esjuj6uc28unt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344496574835-8q2pfhidjhgrvgbn96pavn69kcj80vj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamnotfound.fastmaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
